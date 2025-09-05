@@ -1,0 +1,8 @@
+{
+  "fever": ["Flu", "Infection"],
+  "cough": ["Common Cold", "Bronchitis"],
+  "headache": ["Migraine", "Dehydration"],
+  "vomiting": ["Food Poisoning", "Gastroenteritis"],
+  "fatigue": ["Anemia", "Thyroid Issues"]
+}
+
